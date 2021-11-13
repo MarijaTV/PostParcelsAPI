@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostParcelsAPI", "PostParcelsAPI.csproj", "{700E50E0-F14F-4A36-BB6D-6CD28A04AEBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{700E50E0-F14F-4A36-BB6D-6CD28A04AEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{700E50E0-F14F-4A36-BB6D-6CD28A04AEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{700E50E0-F14F-4A36-BB6D-6CD28A04AEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{700E50E0-F14F-4A36-BB6D-6CD28A04AEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FD95A82-9721-40B5-9C4E-FD6A4BFB6F16}
+	EndGlobalSection
+EndGlobal
